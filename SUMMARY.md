@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](readmemd.md)
+* [Introduction](README.md)
 * 更新DOM
 * 响应事件
 * [10 个 ReactJS 入门资源](http:/www.oschina.net/translate/10-resources-to-get-you-started-with-reactjs)
